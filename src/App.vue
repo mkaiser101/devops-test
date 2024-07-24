@@ -1,6 +1,6 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
-import Page2 from '.components/Page2.vue'
+import Page2 from './components/Page2.vue'
 </script>
 
 <template>
@@ -13,7 +13,9 @@ import Page2 from '.components/Page2.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <div>
   <Page2/>
+  </div>
 </template>
 
 <style scoped>

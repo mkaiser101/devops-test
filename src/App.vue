@@ -12,7 +12,7 @@ import Page2 from './components/Page2.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Hi Cath, Odin loves you" />
   <div>
   <Page2/>
   </div>
